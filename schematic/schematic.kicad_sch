@@ -26,12 +26,6 @@
   )
 
   (symbol_instances
-    (path "/f381231e-3904-4cea-bcb9-dd8495327832/4ef53697-1cb1-423a-a51f-ac0a716c43c1"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/f381231e-3904-4cea-bcb9-dd8495327832/4fc4056f-9ebe-4b36-a4b8-f7074d67692e"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
     (path "/f381231e-3904-4cea-bcb9-dd8495327832/bd365ce1-6d12-44ca-a97f-ca3a2b5e3001"
       (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
     )
@@ -50,14 +44,8 @@
     (path "/f381231e-3904-4cea-bcb9-dd8495327832/669eddab-1e71-4588-aad2-db2385dbfc55"
       (reference "RV1") (unit 1) (value "1M") (footprint "")
     )
-    (path "/f381231e-3904-4cea-bcb9-dd8495327832/271bcbd5-d434-4876-b051-ba7ac054d787"
-      (reference "U?") (unit 1) (value "LM555") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
-    )
     (path "/f381231e-3904-4cea-bcb9-dd8495327832/33147ef2-4c9c-491b-9000-e3e0dcf4d4fd"
       (reference "U?") (unit 1) (value "LM555") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
-    )
-    (path "/f381231e-3904-4cea-bcb9-dd8495327832/3c812e3d-2d08-4318-8943-b717d4d7431c"
-      (reference "U?") (unit 1) (value "LM555xM") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
   )
 )
