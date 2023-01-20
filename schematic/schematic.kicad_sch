@@ -84,13 +84,34 @@
       (reference "SW2") (unit 1) (value "SW_SPDT") (footprint "")
     )
     (path "/f381231e-3904-4cea-bcb9-dd8495327832/33147ef2-4c9c-491b-9000-e3e0dcf4d4fd"
-      (reference "U?") (unit 1) (value "LM555") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U1") (unit 1) (value "LM555") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/f381231e-3904-4cea-bcb9-dd8495327832/db5dca7e-b5e1-4195-ae7a-cd90882700eb"
-      (reference "U?") (unit 1) (value "LM555") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U2") (unit 1) (value "LM555") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/f381231e-3904-4cea-bcb9-dd8495327832/ea1f8746-a35a-4016-9f4f-3ae463b6525f"
-      (reference "U?") (unit 1) (value "LM555") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U3") (unit 1) (value "LM555") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+    )
+    (path "/f381231e-3904-4cea-bcb9-dd8495327832/3b064939-d795-4707-bdb0-4ef6212ff5fc"
+      (reference "U4") (unit 1) (value "74LS04") (footprint "")
+    )
+    (path "/f381231e-3904-4cea-bcb9-dd8495327832/ea563240-e393-4a09-9093-6555f34ef9f3"
+      (reference "U4") (unit 4) (value "74LS04") (footprint "")
+    )
+    (path "/f381231e-3904-4cea-bcb9-dd8495327832/2c14f3de-fefd-4553-8116-1548914d96fe"
+      (reference "U4") (unit 6) (value "74LS04") (footprint "")
+    )
+    (path "/f381231e-3904-4cea-bcb9-dd8495327832/b524b1fb-ff1e-41d8-a31d-4318899728da"
+      (reference "U5") (unit 1) (value "74LS08") (footprint "")
+    )
+    (path "/f381231e-3904-4cea-bcb9-dd8495327832/873dc816-f5e0-4d82-89b7-f87174f7d3ff"
+      (reference "U5") (unit 2) (value "74LS08") (footprint "")
+    )
+    (path "/f381231e-3904-4cea-bcb9-dd8495327832/a5c24d53-cc86-4446-bff0-a54cb114bff7"
+      (reference "U5") (unit 3) (value "74LS08") (footprint "")
+    )
+    (path "/f381231e-3904-4cea-bcb9-dd8495327832/9b5eec32-4dbf-4c42-b592-1171af545c36"
+      (reference "U6") (unit 1) (value "74LS32") (footprint "")
     )
   )
 )
