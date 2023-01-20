@@ -59,6 +59,9 @@
     (path "/f381231e-3904-4cea-bcb9-dd8495327832/eb8c7d22-c6c7-4f89-a92f-dc8bc73cf482"
       (reference "C6") (unit 1) (value "1uF") (footprint "")
     )
+    (path "/f381231e-3904-4cea-bcb9-dd8495327832/8661a2cf-cc20-4144-a62b-3f13260aa18e"
+      (reference "R1") (unit 1) (value "1K") (footprint "")
+    )
     (path "/f381231e-3904-4cea-bcb9-dd8495327832/f3b1f7d2-0bb5-485d-96bd-a6810a3269c0"
       (reference "R2") (unit 1) (value "1K") (footprint "")
     )
